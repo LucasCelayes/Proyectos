@@ -1,0 +1,15 @@
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.sourcelink.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\bin\Debug\net8.0\Probando1.exe
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\bin\Debug\net8.0\Probando1.deps.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\bin\Debug\net8.0\Probando1.runtimeconfig.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\bin\Debug\net8.0\Probando1.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\bin\Debug\net8.0\Probando1.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\refint\Probando1.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\Probando1.genruntimeconfig.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\Probando1\obj\Debug\net8.0\ref\Probando1.dll
