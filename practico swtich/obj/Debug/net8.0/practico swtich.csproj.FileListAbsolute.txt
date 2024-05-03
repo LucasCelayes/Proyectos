@@ -1,0 +1,15 @@
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\bin\Debug\net8.0\practico swtich.exe
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\bin\Debug\net8.0\practico swtich.deps.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\bin\Debug\net8.0\practico swtich.runtimeconfig.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\bin\Debug\net8.0\practico swtich.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\bin\Debug\net8.0\practico swtich.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.sourcelink.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\refint\practico swtich.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\practico swtich.genruntimeconfig.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\practico swtich\obj\Debug\net8.0\ref\practico swtich.dll

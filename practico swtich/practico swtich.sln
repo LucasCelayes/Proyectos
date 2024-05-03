@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practico swtich", "practico swtich.csproj", "{73931F70-0E4D-406A-8E48-537C380664FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73931F70-0E4D-406A-8E48-537C380664FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73931F70-0E4D-406A-8E48-537C380664FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73931F70-0E4D-406A-8E48-537C380664FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73931F70-0E4D-406A-8E48-537C380664FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79396700-B8B1-4BA2-BB4D-9D9B02D047FC}
+	EndGlobalSection
+EndGlobal
