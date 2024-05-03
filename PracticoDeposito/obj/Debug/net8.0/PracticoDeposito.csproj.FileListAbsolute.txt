@@ -1,0 +1,15 @@
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\bin\Debug\net8.0\PracticoDeposito.exe
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\bin\Debug\net8.0\PracticoDeposito.deps.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\bin\Debug\net8.0\PracticoDeposito.runtimeconfig.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\bin\Debug\net8.0\PracticoDeposito.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\bin\Debug\net8.0\PracticoDeposito.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.sourcelink.json
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\refint\PracticoDeposito.dll
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.pdb
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\PracticoDeposito.genruntimeconfig.cache
+C:\Users\fabia\Desktop\Coderhouse\Curso\Proyectos\PracticoDeposito\obj\Debug\net8.0\ref\PracticoDeposito.dll

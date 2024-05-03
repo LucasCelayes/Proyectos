@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticoDeposito/1.0.0": {
+        "runtime": {
+          "PracticoDeposito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticoDeposito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
